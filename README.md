@@ -14,7 +14,7 @@ Amazon, for example, is well-known for its accurate selection of recommendations
 ## **Objective:**
 ----------------
 
-You are a Data Science Manager at Amazon, and have been given the task of building a recommendation system to recommend products to customers based on their previous ratings for other products. You have a collection of labeled data of Amazon reviews of products. The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
+The goal is to extract meaningful insights from the data and build a recommendation system that helps in recommending products to online consumers.
 
 -----------------------------
 ## **Dataset:** 
